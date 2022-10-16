@@ -327,7 +327,7 @@ class Utility(commands.Cog):
         )
         embed.set_thumbnail(url=self.bot.user.display_avatar.url)
 
-        desc = "This is an open source Discord bot that serves as a means for "
+        desc = "This Modmail bot is made for ++ server it serves as a means for "
         desc += "members to easily communicate with server administrators in "
         desc += "an organised manner."
         embed.description = desc
